@@ -1,5 +1,5 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Classificação de Imagens de Ultrassonografia Mamária por meio de Aprendizagem Profunda
+# Classificacao_de_Imagens_de_Ultrassonografia_Mamaria_por_meio_de_Aprendizagem_Profunda
 
 #### Aluno: [Geilson Gomes Araujo](https://github.com/Geilson-Araujo)
 #### Orientadora: [Manoela Kohler](https://github.com/manoelakohler).
